@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey there 😄 Nice to see you!
 
-<!--
-**GolfredoPerezFernandez/GolfredoPerezFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile Page!
 
-Here are some ideas to get you started:
+I'm Golfredo 👨‍💻 Head of Community Engineers @ Moralis Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I come from Venezuela working remotely in the Metaverse
+
+## Technology I'm working with
+
+- React
+- Moralis
+- Web3.js
+- Hardhat
+- Truffle
+- Solidity
+- Next.js
+- Node.js
+- Express
+- GraphQL
+- Apollo
+- Material UI
+- Chakra UI
+
+## How to reach me
+Email: golfredo.pf@gmail.com
+
+- 📩 [Email](https://discord.com/invite/golfredo#2057) 
+- 🎧 [Discord](https://discord.com/invite/golfredo#2057).
