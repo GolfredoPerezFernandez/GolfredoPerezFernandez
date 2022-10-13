@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile Page!
 
-I'm Golfredo 👨‍💻 Head of Community Engineers @ Moralis Web3
+I'm Golfredo 👨‍💻 Head of Blackchain Engineers @  Finance
 
 I come from Venezuela working remotely in the Metaverse
 
