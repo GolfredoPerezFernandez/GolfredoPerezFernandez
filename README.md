@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile Page!
 
-I'm Golfredo 👨‍💻 Head of Blackchain Engineers @  Finance
+I'm Golfredo 👨‍💻 Head of Blackchain Engineers @ TheCooties
 
 I come from Venezuela working remotely in the Metaverse
 
