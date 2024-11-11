@@ -2,8 +2,7 @@
 
 Welcome to my GitHub Profile Page!
 
-I'm Golfredo 👨‍💻 Head of Blackchain Engineers @ TheCooties
-
+I'm Golfredo 👨‍💻 Head of Blackchain Development
 Working remotely in the Metaverse
 
 ## Technology I'm working with
