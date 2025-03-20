@@ -8,6 +8,8 @@ Working remotely in the Metaverse
 ## Technology I'm working with
 
 - React
+- Qwik
+- Astro
 - Moralis
 - Web3.js
 - Hardhat
